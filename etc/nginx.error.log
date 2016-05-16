@@ -1,0 +1,2 @@
+2016/05/15 23:28:54 [error] 784#0: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /hello/ HTTP/1.1", upstream: "http://0.0.0.0:8080/hello/", host: "127.0.0.1"
+2016/05/15 23:55:19 [error] 1945#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /hello/ HTTP/1.1", upstream: "http://0.0.0.0:8080/hello/", host: "127.0.0.1"
